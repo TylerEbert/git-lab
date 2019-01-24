@@ -1,3 +1,5 @@
+Tyler Ebert
+
 Answer 1: git version 2.17.1
 
 Answer 2: user.name=Tyler Ebert 
